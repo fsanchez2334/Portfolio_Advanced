@@ -95,3 +95,11 @@ a{
   }
 
 }
+
+h2{
+  text-align: center;
+}
+.img
+{
+  vertical-align:text-top;
+}
